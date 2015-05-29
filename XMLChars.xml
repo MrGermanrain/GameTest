@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Main>
+  <Characters>
+    <Golem>
+      <Luck>TD</Luck>
+      <Speed>TD</Speed>
+      <Muscle>TD</Muscle>
+    </Golem>
+  </Characters>
+</Main>
